@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+runtime/
+uploaded/
+uploaded_medidas/
+imagenes_falabella/
+
+*.zip
+.DS_Store
